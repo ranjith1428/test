@@ -7,5 +7,10 @@ hello3
 hello4
 hello5
 hello6
+<<<<<<< HEAD
 hello12
 hello13
+=======
+hello8
+hello9
+>>>>>>> test
